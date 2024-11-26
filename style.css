@@ -1,0 +1,23 @@
+.hero{
+    background-image: url(https://discover-senegal.com/wp-content/uploads/2019/05/original_cuisine-senegalaise-poulet-yassa.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.hero h1 {
+ font-size: 4rem;   
+ font-weight: bold;
+}
+.hero a{
+    margin-top: 20px;
+}
+form{
+    margin-top: bold;
+    padding-right: 150vh;
+}
